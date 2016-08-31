@@ -6,4 +6,5 @@ public class GitDemo {
 		System.out.print("git demo test !");
 		System.out.println("second time remote commit");
 	}
+	public void test(){}; //remote edit test.
 }
