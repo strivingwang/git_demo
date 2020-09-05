@@ -11,6 +11,7 @@ public class GitDemo {
 	}//remote edit test.
 	public void test2(){}//remote edit test2
 	
+	
 	public void test3(){}
 }
 
